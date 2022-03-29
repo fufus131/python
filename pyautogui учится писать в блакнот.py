@@ -1,0 +1,10 @@
+import pyautogui
+pyautogui.moveTo(179, 328)
+pyautogui.doubleClick()
+pyautogui.moveTo(268, 182)
+pyautogui.click()
+pyautogui.write("Zubnoy v 8:00")
+pyautogui.moveTo(259, 155)
+pyautogui.click()
+pyautogui.moveTo(266, 214)
+pyautogui.click()

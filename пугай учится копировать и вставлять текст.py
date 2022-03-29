@@ -1,0 +1,16 @@
+import pyautogui
+import time
+pyautogui.moveTo(179, 333)
+pyautogui.doubleClick()
+pyautogui.moveTo(419, 434)
+pyautogui.click()
+pyautogui.hotkey("ctrl", "a")
+pyautogui.hotkey("ctrl", "c")
+time.sleep(1)
+pyautogui.hotkey("alt", "f4")
+pyautogui.moveTo(424, 47)
+pyautogui.doubleClick()
+pyautogui.moveTo(424, 438)
+pyautogui.click()
+pyautogui.hotkey("ctrl", "v")
+pyautogui.hotkey("alt", "f4")
