@@ -1,0 +1,5 @@
+ch1 = input('Веди число с дробной частью')
+ch1 = float(ch1)
+ch2 = input('Веди число с дробной частью')
+ch2 = float(ch2)
+print(ch1 - ch2)

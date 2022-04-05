@@ -1,0 +1,5 @@
+chislo = input('Введите число')
+chislo = int(chislo)
+Chislo2 = input('Ведите число')
+Chislo2 = int(Chislo2)
+print(chislo + Chislo2)
